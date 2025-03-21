@@ -1,0 +1,15 @@
+{
+  "id" : "https://johannesgwahl.github.io/cas_dmit_2025/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in johannesgwahl/cas_dmit_2025 project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "id" : "https://johannesgwahl.github.io/cas_dmit_2025/manifests/manifesttestiiif",
+    "label" : {
+      "en" : [ "Blank Manifest" ]
+    },
+    "type" : "Manifest"
+  } ]
+}
