@@ -1,0 +1,34 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://johannesgwahl.github.io/cas_dmit_2025/manifests/manifesttestiiif",
+  "type" : "Manifest",
+  "label" : {
+    "en" : [ "Blank Manifest" ]
+  },
+  "items" : [ {
+    "id" : "https://example.org/7xnbvyc86lf-m8irph4p/canvas/vxkw06oi2uk-m8irpngj",
+    "type" : "Canvas",
+    "height" : 782,
+    "width" : 691,
+    "label" : {
+      "en" : [ "Untitled canvas" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/7xnbvyc86lf-m8irph4p/canvas/vxkw06oi2uk-m8irpngj/annotation-page/5ldaizlzejt-m8irpngj",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/7xnbvyc86lf-m8irph4p/annotation/4sdbchf762l-m8irpne4",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/7xnbvyc86lf-m8irph4p/canvas/vxkw06oi2uk-m8irpngj",
+        "body" : {
+          "id" : "https://e-codices.ch/loris/fmb%2Ffmb-cb-0600a%2Ffmb-cb-0600a_004.jp2/213,2353,691,782/full/0/gray.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 782,
+          "width" : 691
+        }
+      } ]
+    } ]
+  } ]
+}
